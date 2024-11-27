@@ -42,3 +42,9 @@
 12. **Prática com Exemplos Reais**
   - Criar classes que representam entidades do mundo real (ex.: Carro, Pessoa, ContaBancaria).
   - Implementar herança, polimorfismo e encapsulamento em situações práticas.
+
+## Material de estudo
+> [Blog POO do prof. Leandro - IFBA](https://20232-ifba-saj-ads-poo.github.io/blog-material-aula/) |
+> [Conceito do POO](https://github.com/cami-la/desafio-poo-dio) |
+> [Stream API e Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java) |
+> [Collection Framework API](https://github.com/cami-la/collections-java-api-2023)
