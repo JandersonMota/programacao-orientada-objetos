@@ -2,6 +2,26 @@
 
 > ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+## Instalar e configurar
+- Java JDK: opte por instalar a versão LTS que refere-se a longo período de suporte.
+  - Onde baixar?
+    - <a href="https://www.azul.com/downloads/?package=jdk#zulu">Zulu</a>
+    - <a href="https://adoptopenjdk.net/releases">Adopt</a>
+  - Configurar no Windows
+    - Variáveis de ambiente do sistema > Avançado > Variáveis de ambiente... > Variáveis do sistema > Novo
+      - **Nome da variável:** Digite "JAVA_HOME"
+      - **Valor da variável:** Digite o caminho da pasta JDK.
+      ![image](https://github.com/user-attachments/assets/c8db8669-405f-4bfc-9d65-41d321fa7c2a)
+
+      ![image](https://github.com/user-attachments/assets/7a25ebb9-da69-468a-bcea-4f73ba10dec9)
+    
+    - Verificar se foi instalado
+      - Abra o CMD e digite "java -version"
+
+      ![image](https://github.com/user-attachments/assets/2abc2c0d-49ef-4ee1-9f62-e619a33438c4)
+
+    - Obs.: se quiser vudar a versão do java, troque os caminhos em **Valor da variável** do *JAVA_HOME* e *Path*.
+
 ## Assuntos abordados
 
 1. **Entender os Conceitos Fundamentais**
