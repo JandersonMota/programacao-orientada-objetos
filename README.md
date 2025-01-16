@@ -20,7 +20,7 @@
 
       ![image](https://github.com/user-attachments/assets/2abc2c0d-49ef-4ee1-9f62-e619a33438c4)
 
-    > **Obs.:** se quiser vudar a versão do java, troque os caminhos em **Variáveis do sistema** do *JAVA_HOME* e *Path*.
+    > **Obs.:** Se quiser mudar a versão do Java, altere os caminhos nas **Variáveis do sistema** para *JAVA_HOME* e *Path* e reinicie o sistema operacional.
 
 ## Assuntos abordados
 
